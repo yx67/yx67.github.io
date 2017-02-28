@@ -220,6 +220,9 @@
             .bb5{
             	width: 30px;height: 0px;border: solid  1px ;position: absolute;top: 248px;left: 189px;
             }
+	    .bb6{
+		width: 30px;height: 0px;border: solid #E74F4D 1px ;position: absolute;top: 150px;left: 618px;
+            }
             .m4{font-family: "黑体";
             	position: absolute;top:175px;left: 125px;
             }
